@@ -259,3 +259,7 @@ D:\Pethum\Money Managament Application\Money Management\bin\Debug\net8.0\runtime
 D:\Pethum\Money Managament Application\Money Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Pethum\Money Managament Application\Money Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Pethum\Money Managament Application\Money Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Pethum\Money Managament Application\Money Management\bin\Debug\net8.0\Syncfusion.EJ2.dll
+D:\Pethum\Money Managament Application\Money Management\bin\Debug\net8.0\Syncfusion.Licensing.dll
+D:\Pethum\Money Managament Application\Money Management\obj\Debug\net8.0\Money Management.MvcApplicationPartsAssemblyInfo.cs
+D:\Pethum\Money Managament Application\Money Management\obj\Debug\net8.0\Money Management.sourcelink.json
