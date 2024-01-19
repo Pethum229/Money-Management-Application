@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Money_Management.Models
 {
@@ -16,5 +17,14 @@ namespace Money_Management.Models
 
         [Column(TypeName = "nvarchar(10)")]
         public string Type { get; set; } = "Expense";
+
+        [NotMapped]
+        public string? TitleWithIcon
+        {
+            get
+            {
+                return this.Icon + " " + this.Title;
+            }
+        }
     }
 }
