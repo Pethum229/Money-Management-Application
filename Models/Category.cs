@@ -10,6 +10,7 @@ namespace Money_Management.Models
         public int CategoryId { get; set; }
 
         [Column(TypeName = "nvarchar(50)")]
+        [Required(ErrorMessage = "Title is required.")]
         public string Title { get; set; }
 
         [Column(TypeName = "nvarchar(5)")]
