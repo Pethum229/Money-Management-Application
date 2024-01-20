@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "35S1etgaJQqypSW7BgaWmfvmIO5Se5GqJ1BeDoug320=",
+  "Hash": "eBHs9zFrcAVmmxpyeh5iiOC3yLhwQePbq37A5bAKUQM=",
   "Source": "Money Management",
   "BasePath": "_content/Money Management",
   "Mode": "Default",
@@ -112,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "D:\\Pethum\\Money Managament Application\\Money Management\\wwwroot\\DP education logo 2x si.png",
+      "SourceId": "Money Management",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Pethum\\Money Managament Application\\Money Management\\wwwroot\\",
+      "BasePath": "_content/Money Management",
+      "RelativePath": "DP education logo 2x si.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DP education logo 2x si.png"
+    },
+    {
       "Identity": "D:\\Pethum\\Money Managament Application\\Money Management\\wwwroot\\favicon.ico",
       "SourceId": "Money Management",
       "SourceType": "Discovered",
@@ -167,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon-32x32.png"
+    },
+    {
+      "Identity": "D:\\Pethum\\Money Managament Application\\Money Management\\wwwroot\\icons8-merchant-account-100.png",
+      "SourceId": "Money Management",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Pethum\\Money Managament Application\\Money Management\\wwwroot\\",
+      "BasePath": "_content/Money Management",
+      "RelativePath": "icons8-merchant-account-100.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons8-merchant-account-100.png"
     },
     {
       "Identity": "D:\\Pethum\\Money Managament Application\\Money Management\\wwwroot\\js\\site.js",
